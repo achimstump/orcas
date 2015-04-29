@@ -36,7 +36,7 @@ Die Datei muss angepasst werden, mindestens "password_dba" muss geändert werden
 
 **Wichtig**: Alle Beispiele sollten **nicht** auf **Produktiv**-Datenbanken eingerichtet werden!
 
-*Hinweis*: Es ist keinesfalls notwenig Orcas mit DBA-Rechten laufen zu lassen. Die Beispiel-Projekte sind nur der Einfachheit halber so aufgesetzt, dass benötige Datenbank-User automatisch angelegt werden.
+*Hinweis*: Es ist keinesfalls notwendig, Orcas mit DBA-Rechten laufen zu lassen. Die Beispiel-Projekte sind nur der Einfachheit halber so aufgesetzt, dass benötige Datenbank-User automatisch angelegt werden.
 
 ###Einmalig Orcas und das Beispiel auf der Datenbank einrichten:
 
